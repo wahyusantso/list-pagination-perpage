@@ -1,6 +1,6 @@
 package com.home.paginationlistjc
 
 interface Paginator<Key, Item> {
-    suspend fun loadNext()
+    suspend fun loadNextItems()
     fun reset()
 }

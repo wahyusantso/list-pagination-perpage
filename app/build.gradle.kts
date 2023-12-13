@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.home.paginationlistjc"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.home.paginationlistjc"
